@@ -1,8 +1,14 @@
 {
   "source": "MOONTON Games official news",
   "sourceUrl": "https://en.moonton.com/news/index.html",
-  "updatedAt": "2026-10-20T03:52:39Z",
+  "updatedAt": "2026-10-21T04:51:44Z",
   "articles": [
+    {
+      "title": "Mongolia hosts the MCT EA as East Asia's top MLBB teams take on the world for the M8 World Championship",
+      "description": "Mongolia is set to host the Mobile Legends: Bang Bang (MLBB) East Asia Championship Tour (MCT EA) from 29 to 31 October 2026. Six of the region's top teams converge at M Bank Arena in Ulaanbaatar to take on the world for the M8 World Championship (M8).",
+      "published": "2026-10-21",
+      "url": "https://en.moonton.com/news/386.html"
+    },
     {
       "title": "MPL Malaysia Season 18 brings Playoffs fever nationwide—celebrating esports at the heart of Malaysian culture!",
       "description": "Malaysia's biggest esports showdown is set to return with a nationwide celebration of esports, entertainment, and local traditions as the Mobile Legends: Bang Bang Professional League (MPL) Malaysia Season 18 Playoffs take over Stadium Juara, Kuala Lumpur, from 28 October to 1 November.",
@@ -68,12 +74,6 @@
       "description": "The Group Draw for the 2026 Asian Games Esports Events: Mobile Legends: Bang Bang (MLBB) has been revealed, setting the final road to medal contention in Aichi-Nagoya, Japan.",
       "published": "2026-09-17",
       "url": "https://en.moonton.com/news/375.html"
-    },
-    {
-      "title": "Countdown to M8 World Championship begins as MLBB Türkiye Championship Season 8 kicks off on 12 September",
-      "description": "Türkiye's road to the M8 World Championship (M8) enters its final stretch on 12 September! The Mobile Legends: Bang Bang (MLBB) Türkiye Championship (MTC) returns for Season 8, bringing the country's top teams together ahead of the M Series' historic arrival in Istanbul.",
-      "published": "2026-09-10",
-      "url": "https://en.moonton.com/news/374.html"
     }
   ]
 }
